@@ -9,6 +9,7 @@ export default {
       colors: {
         primary: {
           dark_cyan: "hsl(158, 36%, 37%)",
+          light_cyan: "hsl(158, 36%, 45%)",
           cream: "hsl(30, 38%, 92%)",
         },
         neutral: {

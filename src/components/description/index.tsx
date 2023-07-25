@@ -12,10 +12,10 @@ function Description() {
         <h1 className="text-primary-dark_cyan fraunces text-3xl">$149.99</h1>
         <p className="text-neutral-grayish_blue line-through text-sm">$169.99</p>
       </div>
-      <div className="bg-primary-dark_cyan rounded-[0.5rem] flex justify-center items-center p-3 text-neutral-white gap-2">
+      <a href="https://github.com/owhenrique" target="_blank"><div className="bg-primary-dark_cyan hover:bg-primary-light_cyan rounded-[0.5rem] flex justify-center items-center p-3 text-neutral-white gap-2">
         <RiShoppingCart2Line size={18}/>
         <p className="">Add to Cart</p>
-      </div>
+      </div></a>
     </div>
   );
 }
