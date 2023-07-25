@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @layer base {
-    html {
-        font-family: 'Montserrat', serif;
-    }
+  html {
+    font-family: "Montserrat", serif;
+  }
 }
 
 .fraunces {
-    font-family: 'Fraunces', serif;
+  font-family: "Fraunces", serif;
 }
