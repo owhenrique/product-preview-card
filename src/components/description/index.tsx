@@ -16,9 +16,7 @@ function Description() {
         <br />
         interpretation composed by Olivier
         <br />
-        Polge, Perfumer-Creator for the House of
-        <br />
-        CHANEL.
+        Polge, Perfumer-Creator for the House of CHANEL.
       </p>
       <div className="flex items-center gap-5">
         <h1 className="text-primary-dark_cyan fraunces text-3xl">$149.99</h1>
